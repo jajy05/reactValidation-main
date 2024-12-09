@@ -1,8 +1,8 @@
 how to run:
 1.Clone the repository:
 
-git clone <repository url>  (https://github.com/jajy05/reactValidation-main)
-cd <project folder>
+git clone repository url (https://github.com/jajy05/reactValidation-main)
+cd project folder name
 2.npm install
 3.npm run dev
 
